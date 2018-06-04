@@ -2,6 +2,9 @@
 
 namespace App
 {
+    /// <summary>
+    /// アプリランチャー
+    /// </summary>
     class Luncher
     {
         static void Main(string[] args)
